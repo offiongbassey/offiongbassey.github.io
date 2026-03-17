@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer & NLP Researcher
+# subtitle: Machine Learning Engineer & NLP Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: offiong.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  # more_info: >
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>

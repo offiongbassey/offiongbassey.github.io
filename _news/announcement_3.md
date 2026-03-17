@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-02-01 07:09:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Accepted a job offer from PlotWeaver as an NLP Engineer, where I will work on machine translation, speech processing, and conversational AI for low-resource languages.
