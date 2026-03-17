@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-excited-to-share-that-our-paper-developing-an-english-efik-corpus-and-machine-translation-system-for-digitization-inclusion-has-been-accepted-at-africanlp-co-located-with-acl-in-rabat-morocco",
+          title: 'Excited to share that our paper Developing an English–Efik Corpus and Machine Translation...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-gave-a-talk-at-kabod-group-on-funding-opportunities-for-african-language-industry-projects",
+          title: 'Gave a talk at Kabod Group on Funding opportunities for African Language Industry...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-accepted-a-job-offer-from-plotweaver-as-an-nlp-engineer-where-i-will-work-on-machine-translation-speech-processing-and-conversational-ai-for-low-resource-languages",
+          title: 'Accepted a job offer from PlotWeaver as an NLP Engineer, where I will...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
