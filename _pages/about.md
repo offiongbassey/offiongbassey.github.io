@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Machine Learning Engineer & NLP Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Machine Learning Engineer and researcher focused on Natural Language Processing, with a particular interest in machine translation, speech synthesis, audio processing, and real-time conversational AI agents for low-resource and multilingual languages.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research explores the efficiency of multilingual models in low-resource settings, especially under limited data conditions. Over the past few years, I have been actively working on documenting, preserving, and revitalizing Efik, a low-resource language, by curating high-quality text and speech corpora, training state-of-the-art neural models, and conducting evaluations to assess their performance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I currently work at PlotWeaver as an NLP Engineer, where I focus on improving the scalability and efficiency of language models for practical applications. Some of my recent work includes building neural machine translation systems and speech technologies for underrepresented languages.
+
+In my leisure time, I enjoy reading, watching movies, and listening to podcasts on AI and technology. I am particularly inspired by the work of Ilya Sutskever and other pioneers shaping the future of machine learning.
