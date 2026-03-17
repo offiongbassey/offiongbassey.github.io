@@ -21,13 +21,13 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Machine Learning Engineer and researcher focused on Natural Language Processing, with a particular interest in machine translation, speech synthesis, audio processing, and real-time conversational AI agents for low-resource and multilingual languages.
+I am a Machine Learning Engineer and researcher focused on Natural Language Processing, particularly machine translation, speech synthesis, audio processing, and real-time conversational AI agents for low-resource and multilingual languages.
 
 My research explores the efficiency of multilingual models in low-resource settings, especially under limited data conditions. Over the past few years, I have been actively working on documenting, preserving, and revitalizing Efik, a low-resource language, by curating high-quality text and speech corpora, training state-of-the-art neural models, and conducting evaluations to assess their performance.
 

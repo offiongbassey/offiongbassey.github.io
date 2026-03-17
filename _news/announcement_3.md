@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted a job offer from PlotWeaver as an NLP Engineer, where I will work on machine translation, speech processing, and conversational AI for low-resource languages.
+Accepted a job offer from PlotWeaver as an NLP Engineer, where I will work on machine translation, speech processing, and conversational AI (Agents).
