@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that our paper [_Developing an English–Efik Corpus and Machine Translation System for Digitization Inclusion_](https://arxiv.org/abs/2603.14873) has been **accepted at AfricaNLP**, co-located with ACL in Rabat, Morocco!
+Excited to share that our paper [Developing an English–Efik Corpus and Machine Translation System for Digitization Inclusion](https://arxiv.org/abs/2603.14873) has been _accepted at AfricaNLP_, co-located with ACL in Rabat, Morocco!

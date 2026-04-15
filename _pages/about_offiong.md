@@ -4,4 +4,3 @@ My research explores the efficiency of multilingual models in low-resource setti
 
 I currently work at PlotWeaver as an NLP Engineer, where I focus on improving the scalability and efficiency of language models for practical applications. Some of my recent work includes building neural machine translation systems and speech technologies for underrepresented languages.
 
-In my leisure time, I enjoy reading, watching movies, and listening to podcasts on AI and technology. I am particularly inspired by the work of David Adelani and others advancing NLP for underrepresented languages.

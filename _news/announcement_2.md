@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a talk at Kabod Group on Funding opportunities for African Language Industry Projects
+Gave a talk at Kabod Group on Funding opportunities for African Language Industry Projects.
