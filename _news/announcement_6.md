@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Paper on [Adapting Foundational ASR Models to Efik: An Empirical Study of an Extremely Low-Resource Tonal Language] has been *accepted at Speakable-2026*, co-located with LREC.
+Our Paper on [Adapting Foundational ASR Models to Efik: An Empirical Study of an Extremely Low-Resource Tonal Language] has been _accepted at Speakable-2026_, co-located with LREC.

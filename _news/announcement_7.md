@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded a Research Grant from *Adaption Labs* for speech-to-speech translation for low-resource African languages.
+Awarded a Research Grant from _Adaption Labs_ for speech-to-speech translation for low-resource African languages.
