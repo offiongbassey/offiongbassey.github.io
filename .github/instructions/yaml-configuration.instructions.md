@@ -75,11 +75,11 @@ Defines social media links and contact information displayed on the site.
 **Example:**
 
 ```yaml
-cv_pdf: /assets/pdf/example_pdf.pdf
-email: you@example.com
-scholar_userid: qc6CJjYAAAAJ
-github_username: username
-linkedin_username: username
+cv_pdf: /assets/pdf/offiong_bassey_cv.pdf
+email: offiongbassey99@gmail.com
+scholar_userid: lQYjASYAAAAJ
+github_username: offiongbassey
+linkedin_username: offiong-bassey-dev
 
 custom_social:
   logo: https://example.com/logo.png
